@@ -1,0 +1,4 @@
+syntax: glob
+*/Library/
+*/Temp/
+*/obj/
